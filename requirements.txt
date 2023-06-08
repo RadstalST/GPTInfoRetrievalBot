@@ -1,0 +1,6 @@
+# langchain # use conda install langchain -c conda-forge or macbook m1
+langchain # AI agent builder with many application
+chainlit # fast gui to build chat gpt model
+python-dotenv 
+wikipedia  #langchain tools for searching wikipedia
+duckduckgo-search #langchain tools for searching with duck duck go
